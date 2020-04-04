@@ -5,9 +5,9 @@ This is an HTML, CSS and javascript based project.
 It is a website based on the Kurukshetra city of Haryana.
 
 It contains <br/>
--> Home Page
--> Tourist Spot
-	- Sheikh Chilli Tomb
+-> Home Page <br/>
+-> Tourist Spot <br/>
+	____- Sheikh Chilli Tomb
 	- Zoo
 	- Panorama
 	- Kalpana Chawla Planeterium
