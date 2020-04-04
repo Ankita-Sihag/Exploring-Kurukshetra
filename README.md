@@ -59,7 +59,7 @@ It contains
 -> Quiz
 
 
-Note: There is no gurantee of the correctness of the data (both text and images) used in the project.
+Note: There is no guarantee of the correctness of the data (both text and images) used in the project.
  I shall not be held responsible for any kind of incorrectness of data.
  The project was made just for learning purpose.
 
