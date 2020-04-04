@@ -7,7 +7,7 @@ It is a website based on the Kurukshetra city of Haryana.
 It contains <br/>
 -> Home Page <br/>
 -> Tourist Spot <br/>
-	____- Sheikh Chilli Tomb
+	_ _ _ _ - Sheikh Chilli Tomb
 	- Zoo
 	- Panorama
 	- Kalpana Chawla Planeterium
