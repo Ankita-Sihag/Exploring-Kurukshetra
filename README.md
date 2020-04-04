@@ -1,13 +1,14 @@
 # Exploring-Kurukshetra
 
+<pre>
 This is an HTML, CSS and javascript based project.
 
 It is a website based on the Kurukshetra city of Haryana.
 
-It contains <br/>
--> Home Page <br/>
--> Tourist Spot <br/>
-	_ _ _ _ - Sheikh Chilli Tomb
+It contains 
+-> Home Page 
+-> Tourist Spot 
+	- Sheikh Chilli Tomb
 	- Zoo
 	- Panorama
 	- Kalpana Chawla Planeterium
@@ -58,6 +59,6 @@ It contains <br/>
 -> Quiz
 
 
-Note: There is no gurantee of the correctness of the data (both text and images) used in the project.
-I shall not be held responsible for any kind of incorrectness of data. 
-The project was made just for learning purpose.
+Note: There is no gurantee of the correctness of the data (both text and images) used in the project. I shall not be held responsible for any kind of incorrectness of data. The project was made just for learning purpose.
+
+</pre>
