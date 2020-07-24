@@ -3,6 +3,8 @@
 <pre>
 This is an HTML, CSS and javascript based project.
 
+https://exploring-kurukshetra.herokuapp.com/
+
 It is a website based on the Kurukshetra city of Haryana.
 
 It contains 
